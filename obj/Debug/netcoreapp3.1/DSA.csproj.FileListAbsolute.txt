@@ -1,0 +1,13 @@
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.exe
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.deps.json
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.runtimeconfig.json
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.runtimeconfig.dev.json
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.dll
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.pdb
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.csprojAssemblyReference.cache
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.AssemblyInfoInputs.cache
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.AssemblyInfo.cs
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.csproj.CoreCompileInputs.cache
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.dll
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.pdb
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 3\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.genruntimeconfig.cache
