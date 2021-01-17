@@ -18,6 +18,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -31,6 +32,7 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30008045" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -67,7 +69,7 @@
       <workItem from="1610126972635" duration="322000" />
       <workItem from="1610288777583" duration="612000" />
       <workItem from="1610565054800" duration="629000" />
-      <workItem from="1610895403521" duration="26000" />
+      <workItem from="1610895403521" duration="103000" />
     </task>
     <servers />
   </component>
